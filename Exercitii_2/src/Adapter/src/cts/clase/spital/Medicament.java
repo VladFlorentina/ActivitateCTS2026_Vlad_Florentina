@@ -1,4 +1,4 @@
-package clase.spital;
+package cts.clase.spital;
 
 public class Medicament {
     private String nume;

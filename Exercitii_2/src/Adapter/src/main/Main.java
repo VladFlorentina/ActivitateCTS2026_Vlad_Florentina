@@ -1,7 +1,7 @@
 package main;
 
-import clase.adapter.Adaptor;
-import clase.farmacie.Medicament;
+import cts.clase.adapter.Adaptor;
+import cts.clase.farmacie.Medicament;
 
 public class Main {
 
@@ -9,7 +9,7 @@ public class Main {
     {medFarmacie.cumparaMedicament();}
 
     public static void main(String[] args) {
-        clase.spital.Medicament medSpital=new clase.spital.Medicament("nurofen",24.6f);
+        cts.clase.spital.Medicament medSpital=new cts.clase.spital.Medicament("nurofen",24.6f);
         Medicament medFar=new Medicament("medTest");
 
         procuraMedicament(medFar);

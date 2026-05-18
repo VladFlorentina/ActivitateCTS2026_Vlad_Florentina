@@ -1,11 +1,11 @@
-package clase.adapter;
+package cts.clase.adapter;
 
-import clase.farmacie.Medicament;
+import cts.clase.farmacie.Medicament;
 
 public class Adaptor extends Medicament {
-    private clase.spital.Medicament medSpital;
+    private cts.clase.spital.Medicament medSpital;
 
-    public Adaptor(clase.spital.Medicament medSpital){
+    public Adaptor(cts.clase.spital.Medicament medSpital){
         super(medSpital.getNume());
         this.medSpital=medSpital;
     }
