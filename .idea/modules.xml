@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Adapter_Restaurant/Adapter_Restaurant.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Adapter_Restaurant/Adapter_Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Adaptor_STB/Adaptor_STB.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Adaptor_STB/Adaptor_STB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Command_spital/Command.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Command_spital/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Command_STB/Command_STB.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Command_STB/Command_STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Composite_STB/Component_STB.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Composite_STB/Component_STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Composite_Spital/Composite_Spital.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Composite_Spital/Composite_Spital.iml" />
@@ -25,7 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Strategy_Student/Strategy.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Strategy_Student/Strategy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Strategy_STB/Strategy_STB.iml" filepath="$PROJECT_DIR$/Strategy_STB/Strategy_STB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Strategy_STB/Strategy_STB.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Strategy_STB/Strategy_STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Strategy_Spital/Stratehy_Restaurant.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Strategy_Spital/Stratehy_Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/command_Restaurant/command_Restaurant.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/command_Restaurant/command_Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/composite_Resturant/composite_Resturant.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/composite_Resturant/composite_Resturant.iml" />
