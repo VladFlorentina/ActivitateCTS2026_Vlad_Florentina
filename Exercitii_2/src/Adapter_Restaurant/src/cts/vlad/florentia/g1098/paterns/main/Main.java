@@ -21,4 +21,6 @@ public class Main {
         Adaptor adaptor=new Adaptor(produsBar);
         proceseazaPrintare(adaptor);
     }
+
+
 }

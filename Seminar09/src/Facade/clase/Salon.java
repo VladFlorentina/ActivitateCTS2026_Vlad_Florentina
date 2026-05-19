@@ -21,4 +21,5 @@ public class Salon {
     public void ocupaPat(int indexPat){
         this.patLiber[indexPat]=false;
     }
+
 }

@@ -9,4 +9,5 @@ public class Medicament {
     public void cumparaMedicament(){
         System.out.println("medicamentul "+nume+" a fost cumparat");
     }
+
 }

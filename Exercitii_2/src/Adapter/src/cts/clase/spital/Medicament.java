@@ -20,6 +20,8 @@ public class Medicament {
 
     public boolean prezintaReteta(){return this.nume.length()>10;}
     public  String getNume(){return nume;}
+
+
 }
 
 
