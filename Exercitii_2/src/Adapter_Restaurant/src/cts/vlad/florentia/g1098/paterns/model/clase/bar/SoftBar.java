@@ -14,4 +14,6 @@ public class SoftBar {
     public String getNumeBautura() {
         return numeBautura;
     }
+
+
 }

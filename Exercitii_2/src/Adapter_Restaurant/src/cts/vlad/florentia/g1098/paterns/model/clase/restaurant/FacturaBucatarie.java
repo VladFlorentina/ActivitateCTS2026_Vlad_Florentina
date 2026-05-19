@@ -20,4 +20,6 @@ public class FacturaBucatarie {
     public double getPret() {
         return pret;
     }
+
+
 }
