@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Command_STB/Command_STB.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Command_STB/Command_STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Composite_STB/Component_STB.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Composite_STB/Component_STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Composite_Spital/Composite_Spital.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Composite_Spital/Composite_Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Decorator_STB/Decorat_STB.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Decorator_STB/Decorat_STB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Decorate_Restaurant/Decorate_Restaurant.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Decorate_Restaurant/Decorate_Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/Exercitii_2.iml" filepath="$PROJECT_DIR$/Exercitii_2/Exercitii_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii_2/src/Facade/Facade.iml" filepath="$PROJECT_DIR$/Exercitii_2/src/Facade/Facade.iml" />
